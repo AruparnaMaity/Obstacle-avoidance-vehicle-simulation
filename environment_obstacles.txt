@@ -1,0 +1,11 @@
+"vehicle" 20 0 20 30 "green"
+"obstacle_left1" 0 50 50 20
+"obstacle_left2" 0 350 50 20
+"obstacle_left3" 0 650 50 20
+"obstacle_left4" 0 950 50 20
+"obstacle_right1" 50 200 50 20
+"obstacle_right2" 80 500 20 20
+"obstacle_right3" 30 800 70 20
+"obstacle_right4" 80 1000 20 20
+"obstacle_moving1" 40 450 30 50 "red" -1 0
+"obstacle_moving2" 0 550 30 50 "red" 0.5 0
